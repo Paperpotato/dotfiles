@@ -16,5 +16,6 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 alias ll='ls -l'
-alias la='ls -a
+alias la='ls -a'
 alias tm='truffle migrate'
+alias lg='la | grep'
