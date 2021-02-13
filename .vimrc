@@ -30,5 +30,6 @@ filetype plugin indent on
 
 call plug#begin()
 Plug 'tomlion/vim-solidity'
+Plug 'grvcoelho/vim-javascript-snippets'
 call plug#end()
 
