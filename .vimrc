@@ -24,7 +24,11 @@ set mouse+=a
 set tabstop=4
 set shiftwidth=4
 set expandtab
+set shiftround
 
 filetype plugin indent on
 
+call plug#begin()
+Plug 'tomlion/vim-solidity'
+call plug#end()
 
