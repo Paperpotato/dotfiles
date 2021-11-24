@@ -20,3 +20,4 @@ alias la='ls -a'
 alias tm='truffle migrate'
 alias lg='la | grep'
 alias hardhat='npx hardhat'
+export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
