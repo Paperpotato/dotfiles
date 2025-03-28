@@ -20,4 +20,7 @@ alias la='ls -a'
 alias tm='truffle migrate'
 alias lg='la | grep'
 alias hardhat='npx hardhat'
+alias python='python3'
+alias prod='node /Users/kevin/github/personal-projects/active\ scripts/products.js'
+alias pip='pip3'
 export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
